@@ -33,7 +33,7 @@
   display: flex;
 }
 
-.slide {
+.slider__image {
   width: 100%;
   /* Чтобы слайды не сжимались */
   flex-shrink: 0;
